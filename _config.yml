@@ -2,7 +2,7 @@ title: narayon.github.io
 description: Portfolio attempt
 google_analytics: 
 show_downloads: false
-theme: jekyll-theme-midnight
+theme: jekyll-theme-tactile
 
 gems:
   - jekyll-mentions
